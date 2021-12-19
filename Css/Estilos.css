@@ -1,0 +1,71 @@
+header{
+    text-align: center;
+    font-size: 50px;
+}
+body{
+    color: rgb(255, 196, 0);
+    background-color: rgba(252, 64, 142, 0.904);
+     margin-bottom: 100px;  
+     margin-top: 100px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     letter-spacing:2px;
+   
+}
+video{
+    width: 200px;
+    height: 300px;
+    
+}
+section{font-size: 50px;
+    
+margin: 50px;
+}
+*{
+    margin: 0%;
+}
+img{
+    display: block;
+    margin: auto;
+    width: auto;
+    height: auto;
+}
+p{
+    text-align:center;
+    background-color:crimson;
+    margin: 30px;
+}
+span{text-align:center;
+    background-color:crimson;
+    margin: 30px;}
+
+ div{text-align:center;
+  
+    background-color:crimson;
+    margin: auto;
+   
+ }
+ul{
+    text-align: left;
+    list-style: none;
+}
+article{text-align:center;
+        background-color:crimson;
+        margin: 30px;}
+
+ aside{text-align: right;
+    background-color: crimson;
+    width: 200px;
+      height: 200px;
+  display: inline-block;}
+table{
+   margin: auto;
+    background-color: deeppink;
+}
+thead{
+    background-color: darksalmon;
+    
+}
+td{
+    text-align: center;
+    background-color: crimson;
+}
